@@ -21,13 +21,12 @@ Title: Machine Learning-Based Music Genre Classification on Spotify Data
 
 Instruction for the project:
 
-Step 1: Download zip file
+        Step 1: Download zip file
 
-Step 2: Extract file
+        Step 2: Extract file
 
-Step 3: Install spotipy as without it project will not run
+        Step 3: Install spotipy as without it project will not run
 
-
-Step 4: Click app.py
+        Step 4: Click app.py
 
 Link: https://drive.google.com/file/d/1Q2VjIPYjiaBZrpOLiDnCjIQy2sDr1GUc/view?usp=sharing
