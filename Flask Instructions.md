@@ -29,4 +29,4 @@ Instruction for the project:
 
         Step 4: Click app.py
 
-Link: https://drive.google.com/file/d/1Q2VjIPYjiaBZrpOLiDnCjIQy2sDr1GUc/view?usp=sharing
+Link: https://drive.google.com/drive/folders/1fyEb5P9gQsygmJOfhUHyFEOkLHgiIb7j
